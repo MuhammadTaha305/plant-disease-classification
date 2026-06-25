@@ -1,5 +1,7 @@
 # Plant Disease Classification — Transfer Learning Comparative Study
 
+> 📚 **Course:** Deep Learning — Spring 2026, NUST SEECS
+
 A comparative deep-learning study that classifies **38 plant-disease classes** from leaf images using transfer learning across **three distinct CNN architecture families**, each evaluated under two strategies: **feature extraction** (frozen backbone) and **fine-tuning** (unfrozen upper layers).
 
 Built in PyTorch on the [New Plant Diseases Dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset) (PlantVillage). CS 419 Deep Learning project, NUST SEECS.
@@ -130,7 +132,7 @@ The notebook is self-contained: dataset download → preprocessing → six train
 | Member | ID | Contributions |
 |---|---|---|
 | Muhammad Taha | 467244 | Data preprocessing, ResNet50 + VGG16 implementation/tuning |
-| Maier Ali | 481889 | MobileNetV2 implementation/fine-tuning, comparative analysis, Grad-CAM, summary |
+| [Maier Ali](https://github.com/atomicfalcon) | 481889 | MobileNetV2 implementation/fine-tuning, comparative analysis, Grad-CAM, summary |
 
 ## Tech stack
 
