@@ -122,9 +122,7 @@ The notebook is self-contained: dataset download → preprocessing → six train
 ```
 .
 ├── Project.ipynb     # full pipeline + inline results
-├── assets/           # exported result figures
-└── docs/
-    └── assignment.pdf  # original project brief
+└── assets/           # exported result figures
 ```
 
 ## Team
